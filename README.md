@@ -1,8 +1,8 @@
-# 🛡️ Phishing Detection System
+# Phishing Detection System
 
 An AI-powered phishing detection system that uses machine learning and multi-layer analysis to identify malicious URLs in real-time.
 
-## 🌟 Features
+## Features
 
 - **Multi-Layer Detection**: Combines blacklist checking, heuristic analysis, and ML classification
 - **28 URL Features**: Comprehensive feature extraction for accurate detection
@@ -11,7 +11,7 @@ An AI-powered phishing detection system that uses machine learning and multi-lay
 - **Web Interface**: Beautiful, responsive dashboard built with Flask
 - **Explainable AI**: Detailed reasoning for each detection decision
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ An AI-powered phishing detection system that uses machine learning and multi-lay
 6. **Open in browser**
    Navigate to: `http://localhost:5000`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 phishing-detection-system/
@@ -77,7 +77,7 @@ phishing-detection-system/
 └── README.md                   # This file
 ```
 
-## 🔍 How It Works
+## How It Works
 
 ### Detection Layers
 
@@ -126,7 +126,7 @@ phishing-detection-system/
 27. Consecutive Consonants Count
 28. Special Character Ratio
 
-## 🎯 API Endpoints
+## API Endpoints
 
 ### Single URL Analysis
 ```bash
@@ -153,7 +153,7 @@ Content-Type: application/json
 GET /api/stats
 ```
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 - **Accuracy**: ~90-92%
 - **Precision**: ~88-90%
@@ -161,7 +161,7 @@ GET /api/stats
 - **F1-Score**: ~90-92%
 - **Response Time**: < 200ms per URL
 
-## 🛠️ Customization
+##  Customization
 
 ### Adding Domains to Blacklist
 
@@ -194,7 +194,7 @@ FEATURE_WEIGHTS = {
 }
 ```
 
-## 🧪 Testing
+## Testing
 
 Test with sample URLs:
 
@@ -208,21 +208,21 @@ https://www.google.com
 http://paypal-verify.com/account
 ```
 
-## ⚠️ Important Notes
+## Important Notes
 
 - **Educational Purpose**: This system is for educational and demonstration purposes
 - **Not Production-Ready**: Should not be used as sole security measure
 - **Regular Updates**: Phishing techniques evolve; model needs regular retraining
 - **Sample Data**: Current model uses generated sample data; use real datasets for production
 
-## 🔒 Security Considerations
+## Security Considerations
 
 - Never visit suspected phishing URLs directly
 - This tool provides risk assessment, not absolute guarantees
 - Always use multiple security layers
 - Keep the blacklist and model updated
 
-## 🎓 Educational Use
+## Educational Use
 
 Perfect for:
 - College/University projects
@@ -231,11 +231,11 @@ Perfect for:
 - Portfolio building
 - Security awareness training
 
-## 📝 License
+##  License
 
 This project is for educational purposes. See LICENSE file for details.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Areas for improvement:
 - Add more features
@@ -244,7 +244,7 @@ Contributions welcome! Areas for improvement:
 - Add WHOIS lookup
 - Implement deep learning models
 
-## 📧 Support
+## Support
 
 For questions or issues:
 1. Check the documentation
@@ -252,7 +252,7 @@ For questions or issues:
 3. Test with sample URLs
 4. Verify all dependencies are installed
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built with Flask, scikit-learn, and modern web technologies
 - Inspired by real-world phishing detection systems
@@ -260,6 +260,5 @@ For questions or issues:
 
 ---
 
-**Made with ❤️ for cybersecurity education**
 
-⚠️ **Disclaimer**: For educational purposes only. Not a replacement for professional security tools.
+ **Disclaimer**: For educational purposes only. Not a replacement for professional security tools.
