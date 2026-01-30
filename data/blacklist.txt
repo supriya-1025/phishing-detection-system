@@ -1,0 +1,23 @@
+# Known Phishing Domains - For Educational Purposes Only
+# Add one domain per line (lowercase)
+
+paypal-verify.com
+secure-amazon.ru
+apple-id-verify.tk
+google.com-verify.ml
+netflix.account-update.ga
+facebook.confirm-account.cf
+microsoft-security-alert.tk
+account-suspended-amazon.ml
+paypal.com-secure-login.tk
+instagram.com.login-verify.ga
+twitter.com-account-suspended.tk
+linkedin-verify.ml
+your-account-limited.tk
+urgent-security-alert.ml
+confirm-your-identity.ga
+secure-banking-login.ml
+verify-account-now.tk
+update-payment-info.ga
+suspended-account.cf
+security-check-required.tk
